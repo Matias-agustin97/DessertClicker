@@ -1,0 +1,4 @@
+#Tue Aug 30 15:19:26 ART 2022
+base.0=C\:\\Users\\Matias\\Desktop\\androidcodelabs\\android-kotlin-fundamentals-starter-apps\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
